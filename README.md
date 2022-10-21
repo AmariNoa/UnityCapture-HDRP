@@ -1,3 +1,22 @@
+# Unity Capture HDRP
+
+![Unity Capture HDRP and OBS Window Projector](README_HDRP.png)
+
+## Overview
+This project is based on [UnityCapture by schellingb](//github.com/schellingb/UnityCapture) and adds scripts for Unity HDRP.
+Modified by Amari Noa (天鈴 のあ)
+
+## Important additional files
+
+・UnityCaptureSample/Assets/UnityCaptureHDRPExample.unity
+・UnityCaptureSample/Assets/unityCapture/UnityCaptureHDRP.cs
+
+## Note
+
+See the base project UnityCapture for project features and usage.
+From now on, it will be an overview of UnityCapture.
+
+
 # Unity Capture
 
 ![Unity Capture and OBS](https://raw.githubusercontent.com/schellingb/UnityCapture/master/README.png)

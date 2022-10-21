@@ -2,9 +2,13 @@ Library/*
 Temp/*
 Packages/*
 UnityPackageManager/*
+Logs/*
+UserSettings/*
 obj/*
 .vscode/*
 
 *.csproj
 *.sln
 *.suo
+*.vsidx
+*.lock
